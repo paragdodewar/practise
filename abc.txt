@@ -1,4 +1,5 @@
 one line added
 <<<<<<< HEAD
-this is 2nd line
-this is 3rd line
+<<<<<<< HEAD
+=======
+>>>>>>> 896074610e1d862a19c21f80aec3716dfbfbf7e4
